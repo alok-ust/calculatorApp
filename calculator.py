@@ -21,6 +21,9 @@ print("Please select operation -\n" \
         "2. Subtract\n" \
         "3. Multiply\n" \
         "4. Divide\n")
+
+#Advance methods will be added soon
+
  
  
 # Take input from the user
